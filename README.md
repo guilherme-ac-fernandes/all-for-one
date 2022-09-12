@@ -10,8 +10,9 @@ A partir do Banco de Dados `NorthWind` contendo informações de uma loja. Foi d
 
 ```
 docker-compose up -d
-docker attach all_for_one  
+docker attach all_for_one
 npm install // para instalar as dependências
+docker-compose down // para parar completamente a aplicação
 ```
 
 ### Desafios
