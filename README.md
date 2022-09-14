@@ -1,4 +1,4 @@
-# All for one 👥
+# Projeto All for one 👥
 
 A partir do Banco de Dados `NorthWind` contendo informações de uma loja. Foi desenvolvido dasafios para selecionar as informações necessárias.
 
